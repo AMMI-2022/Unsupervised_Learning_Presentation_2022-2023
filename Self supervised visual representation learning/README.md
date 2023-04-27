@@ -10,3 +10,4 @@ This is a project done in collaboration with:
 4. Mame Diarra Diop   mddiop@aimsammi.org
 5. Samuael Adnew  sadnew@aimsammi.org
 6. Verlon Roel Mbingui  vrmbingui@aimsammi.org
+7. Uriel Nguefack Yefou  unyefou@aimsammi.org
